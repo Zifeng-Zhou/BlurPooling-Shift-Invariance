@@ -1,0 +1,4 @@
+# Local source record
+The course handoff is stored outside Git under work/COMP576_Codex_Handoff in the workspace. All nine materials passed their supplied SHA-256 checks. The submitted November 19 proposal establishes the experimental question and decision rule. The November 24 rubric snapshot and Canvas screenshot establish submission requirements.
+
+Zifeng Zhou's Assignment 2 report, implementation, summary, 60-epoch CSV, weights and image ZIP describe 10,000 training and 1,000 test grayscale images. The source uses two tanh convolution stages and a 400-unit flattened input. Normalization uses 0.48215 and 0.23793. Setting C used reflected crops and horizontal flips, selecting epoch 58 by course test accuracy (63.1%). A display routine uses a stale 0.5 inverse normalization. Formal RGB models use 576 inputs to the first dense layer and training-only channel statistics. Proposal claims of 816 flips in 4,000 views require independent inference.

@@ -1,0 +1,12 @@
+{
+  "n": 1000,
+  "views": 4000,
+  "flips": 816,
+  "shifted_correct": 2435,
+  "clean_correct": 631,
+  "checkpoint_sha256": "38105f8b8fc1b79275e014d93282bf182ffc76ba6c9b7c99f8e378eb5cee788b",
+  "predictions_sha256": "c7ffad9f3f8fbf45d2e2832441b4d4c008f3a8d22b0ba750ab8684cdf7fec4f3",
+  "flip_rate": 0.204,
+  "clean_accuracy": 0.631,
+  "shifted_accuracy": 0.60875
+}

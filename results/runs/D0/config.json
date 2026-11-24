@@ -1,0 +1,37 @@
+{
+  "config": {
+    "condition": "D",
+    "seed": 0,
+    "epochs": 60,
+    "device": "cuda",
+    "batch": 64,
+    "n_train": 45000,
+    "n_val": 5000,
+    "init_hash": "ffa4df24bc8253ef0acbe5192fc4b07ff80385d278da839370bda266ecbe8126",
+    "split": "d26a6fcd5a23aa6904ae514806b51965a006f64fb2688c672b45bd763a0a82a0",
+    "source": {
+      "model.py": "9fc1842e4fef10077c375189ae87ffab16042c7c15a80aed6a26c37b6e564296",
+      "train.py": "01cbe286e98201c4402b7df7c161c7602ec1f580bf5be771cd16648e50811ab7",
+      "data.py": "973da9249a11b694caabf7b624c2f81b33193b14854ddcded28487a617c75470"
+    },
+    "precision": "FP32; TF32 disabled",
+    "momentum": 0.9,
+    "weight_decay": 0.0005,
+    "lr": 0.02,
+    "milestones": [
+      25,
+      40
+    ],
+    "gamma": 0.2,
+    "loss": "cross_entropy",
+    "workers": 0,
+    "optimizer": "SGD",
+    "selection": "highest clean validation correct count; earliest tie",
+    "python": "3.11.16",
+    "torch": "2.11.0+cu128",
+    "cuda": "12.8",
+    "gpu": "NVIDIA GeForce RTX 5090"
+  },
+  "git": "4c91ac195275c9c81ae5880390c4e57ba7cf2290",
+  "workspace": "?? overlap.py"
+}

@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.pyc
+data/
+artifacts/
+*.pt
+*.npz
+*.tar.gz
+*.zip
+COMP576_Codex_Handoff/
+.env*
+*.log
+*.aux
+*.bbl
+*.blg
+*.out
+*.synctex.gz

@@ -1,0 +1,33 @@
+{
+  "counts": [
+    {
+      "course_split": "Test",
+      "status": "unique",
+      "official_split": "test",
+      "n": 1000
+    },
+    {
+      "course_split": "Train",
+      "status": "ambiguous",
+      "official_split": "train",
+      "n": 1
+    },
+    {
+      "course_split": "Train",
+      "status": "unique",
+      "official_split": "train",
+      "n": 8956
+    },
+    {
+      "course_split": "Train",
+      "status": "unique",
+      "official_split": "validation",
+      "n": 1043
+    }
+  ],
+  "tested": 11000,
+  "excluded_test": 1000,
+  "complete": true,
+  "max_best_rmse": 0.6888322234153748,
+  "table_sha256": "59658c066a49668dc31cc468068802c7b48045fc2db2ff8a73cfa6997db0c2ed"
+}

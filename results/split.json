@@ -1,0 +1,21 @@
+{
+  "source": "https://cave.cs.toronto.edu/kriz/cifar-10-python.tar.gz",
+  "archive_md5": "c58f30108f718f92721af3b95e74349a",
+  "archive_sha256": "6d958be074577803d12ecdefd02955f39262c83c16fe9348329d7fe0b5c001ce",
+  "split_seed": 42,
+  "train_sha256": "d8bb1634daea375cdcb16d089411e7a71ec84b8be7325799d92c97ecf966c95b",
+  "val_sha256": "d4ade8ebd1b6a71dd13efd9e267d9f68afc0b4a6cc77507d837a9933e63f57f1",
+  "mean": [
+    0.4918399328533497,
+    0.4825411911934909,
+    0.4468195834184367
+  ],
+  "std": [
+    0.2470507307231899,
+    0.2435421222430262,
+    0.2616922130832289
+  ],
+  "train_count": 45000,
+  "val_count": 5000,
+  "ids": "zero-based positions in official split, in original batch order"
+}

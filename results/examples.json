@@ -1,0 +1,18 @@
+[
+  {
+    "id": 108,
+    "truth": "ship",
+    "clean_B": "ship",
+    "clean_D": "ship",
+    "right_B": "cat",
+    "right_D": "ship"
+  },
+  {
+    "id": 22,
+    "truth": "deer",
+    "clean_B": "deer",
+    "clean_D": "deer",
+    "right_B": "deer",
+    "right_D": "bird"
+  }
+]

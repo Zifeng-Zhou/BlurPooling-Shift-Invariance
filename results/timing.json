@@ -1,0 +1,15 @@
+{
+  "condition": "D",
+  "seed": 0,
+  "epochs": 1,
+  "best_epoch": 1,
+  "best_val": 0.4782,
+  "init_hash": "ffa4df24bc8253ef0acbe5192fc4b07ff80385d278da839370bda266ecbe8126",
+  "seconds": 1.1663276001345366,
+  "sha256": {
+    "best.pt": "157fa4708e4d8d20f3ecdcdff607cb51d7884f04df89addff3307e7f418d8d1d",
+    "last.pt": "172e469210561e1cd29f77bfb54f421ebc10fdc18121e0ef9e0bc8dc58828c56",
+    "history.csv": "56b57ee8c16971579a7102fa2dc5dbed7d37b5ca1359c79bffd4deb0b4e39bff",
+    "config.json": "53f22d987a595fb12e1e6a75a11b0d4753ea6eed908decc0bac121996d23b907"
+  }
+}

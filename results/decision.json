@@ -1,0 +1,9 @@
+{
+  "mean_pp": {
+    "flip_rate": -5.640833333333332,
+    "clean_accuracy": 0.03666666666666263,
+    "shifted_accuracy": 0.11166666666666547
+  },
+  "all_flip_lower": true,
+  "passes": true
+}
